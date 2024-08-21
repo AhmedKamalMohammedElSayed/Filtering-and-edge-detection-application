@@ -3,14 +3,12 @@
 - [Introduction](#introduction)
 - [Project Features](#project-features)
 - [Quick Preview](#quick-preview)
-- [Requirements to run](#Requirements-to-run)
-- [Run the project](#Run-the-project)
-- [Try a demo](#Try-a-demo)
-- [Team]()
-- 
-### Introduction
-This is an image processing application implemented in C++ with a Qt desktop interface. The application offers various functionalities related to image manipulation and analysis.
+- [Requirements to Run](#requirements-to-run)
+- [Team](#team)
 
+### Introduction
+------------------------------------------
+This is an image processing application implemented in C++ with a Qt desktop interface. The application offers various functionalities related to image manipulation and analysis.
 ### Project Features
 The application provides the following features:
 
@@ -37,6 +35,7 @@ The application provides the following features:
  - Creating hybrid images
 
 ### Quick Preview
+------------------------------------------
 
 ### Noise and Filter
 ![1-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0a9cedab-24f7-46e0-8cb3-9bf2f3f688f5)
@@ -52,6 +51,8 @@ The application provides the following features:
 
 
 ### Requirements to Run
+------------------------------------------
+
 To run the project, you need:
 
 C++ compiler
@@ -60,7 +61,9 @@ OpenCV library
 Run the Project
 
 
-Team:
+### Team
+------------------------------------------
+
 | Team Members' Names | 
 |---------------------|
 | [Ahmed Kamal](https://github.com/AhmedKamalMohammedElSayed)|
