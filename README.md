@@ -37,7 +37,18 @@ The application provides the following features:
  - Creating hybrid images
 
 ### Quick Preview
-![Uploading 1-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif…]()
+
+### Noise and Filter
+![1-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0a9cedab-24f7-46e0-8cb3-9bf2f3f688f5)
+
+### Edge Detection - Equalization and Normalization - Histograms
+![2-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e21d85f2-4d0d-4023-bfc5-5d3fdb7e6ab5)
+
+### Thresholding
+![3-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0f01b422-069d-404a-9985-393cc2bdbacc)
+
+### Hybrid
+![4-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1d487f44-9a01-4c3f-84fb-1210ee634a0f)
 
 
 ### Requirements to Run
