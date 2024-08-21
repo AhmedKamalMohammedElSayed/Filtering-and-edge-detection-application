@@ -37,6 +37,7 @@ The application provides the following features:
  - Creating hybrid images
 
 ### Quick Preview
+![Uploading 1-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif…]()
 
 
 ### Requirements to Run
